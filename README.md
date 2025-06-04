@@ -1,3 +1,12 @@
+## 🎬 Proyecto de práctica en React
+
+Este proyecto fue realizado como parte de mi práctica con React.  
+Está basado en un proyecto educativo originalmente creado por [ymulenll](https://github.com/ymulenll/movies-curso-react).  
+Hice cambios en el diseño, lo actualicé a React 19 y traduje el contenido al español.
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
