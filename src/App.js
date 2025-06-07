@@ -1,7 +1,7 @@
-import styles from "./App.module.css";
 import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { MovieDetails } from "./pages/MovieDetails";
 import { LandingPage } from "./pages/LandingPage";
+import styles from "./App.module.css";
 
 export function App() {
   return (
