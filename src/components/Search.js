@@ -14,7 +14,7 @@ export function Search() {
 
   const handleChange = (e) => {
     const value = e.target.value;
-    navigate(`/?search=${value}`);
+    navigate(`/?search=${encodeURIComponent(value)}`);
   };
 
   return (
